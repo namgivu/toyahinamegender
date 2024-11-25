@@ -11,8 +11,8 @@ hi(name,gender)
 01b git commit va git push bailam
 
 02a mo github.com cua ban va kiemtra tep s00_bailam.py, va lay diachi/url aka githubbailamurl tro den bailam nay
-02b dan diachi githubbailamurl tu trang web duoiday
-    https://forms.gle/F5AGewHCGbsGaArK7
+02b dán diachi githubbailamurl theo mẫu ở trang web duoiday
+    https://forms.gle/1VeMMTzv62zNicgd6
   
 
 --- debai / problem
